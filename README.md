@@ -13,7 +13,7 @@ Este script Python realiza uma pesquisa de IP para um determinado URL.
 2. **Entrar no diretório:**
 
     ```sh
-    cd ByteIp
+    cd ByteIp2.0
     ```
 
 3. **Executar o script:**
